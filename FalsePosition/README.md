@@ -1,4 +1,4 @@
-## Sean McDonough
+# Sean McDonough
 # This function finds the roots of a inputed function using the false
 # position method 
 #
